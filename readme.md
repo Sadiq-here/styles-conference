@@ -3,4 +3,4 @@
 Styles conference is a dummy website made with only HTML and CSS.
 
 Here's the live demo :
-[https://sadiq-here.github.io/styles-conference/](styles-conference)
+[styles-conference](https://sadiq-here.github.io/styles-conference/)
